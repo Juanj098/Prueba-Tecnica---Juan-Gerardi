@@ -18,6 +18,7 @@ El objetivo es implementar un sistema basico de manejo de encuestas.
 
 ## Diagrama de Componentes
 
+![d_arqui](/Diagramas/arquitectura.png)
 
 ## Diagrama de casos de Uso
 
