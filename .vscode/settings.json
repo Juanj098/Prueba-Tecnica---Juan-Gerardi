@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "database-1.cdcqwcci8pmq.us-west-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "username": "admin",
+            "database": "mysql",
+            "name": "RDS-MySQL",
+            "connectionTimeout": 25,
+            "askForPassword": true
+        }
+    ]
+}
